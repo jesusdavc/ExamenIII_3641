@@ -5,3 +5,4 @@
 ## Pregunta 3
 El programa se encuentra en el archivo DataTypeManager.py y las pruebas unitarias 
 se esperan hacer en el archivo UnitaryTests.py
+## Pregunta 4
