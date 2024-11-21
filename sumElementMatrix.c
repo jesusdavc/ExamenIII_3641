@@ -90,7 +90,7 @@ int main() {
             double tiempoColumnas = (double)(fin - inicio) / CLOCKS_PER_SEC;
             printf("Suma por columnas: %f, Tiempo: %f segundos\n", sumaColumnas, tiempoColumnas);
 
-            liberarMatriz(matriz, N);
+            liberarMatriz(matriz, N, M);
         }
     }
 
